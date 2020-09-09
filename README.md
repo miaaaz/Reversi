@@ -2,7 +2,7 @@
 
 A board game for two players.
 
-### Usage
+## Usage
 
 Before beginning, install dependencies with: `npm install`.
 
@@ -10,7 +10,7 @@ To play the game, run: `npm start`. You position input should be subrrounded by 
 
 To run the tests, run: `npm test`.
 
-### Sample
+## Sample
 
 **'W'**: white
 
@@ -18,6 +18,6 @@ To run the tests, run: `npm test`.
 
 ![Sample](sample.png)
 
-### Reference
+## Reference
 
 This is a course project for App Academy Open.
